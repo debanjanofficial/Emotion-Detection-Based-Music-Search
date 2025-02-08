@@ -1,8 +1,3 @@
-# YOLOv5 🚀 by Ultralytics, GPL-3.0 license
-"""
-Experimental modules
-"""
-
 import numpy as np
 import torch
 import torch.nn as nn

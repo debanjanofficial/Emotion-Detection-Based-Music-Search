@@ -1,11 +1,3 @@
-# YOLOv5 🚀 by Ultralytics, GPL-3.0 license
-"""
-Export a PyTorch model to TorchScript, ONNX, CoreML formats
-
-Usage:
-    $ python path/to/export.py --weights yolov5s.pt --img 640 --batch 1
-"""
-
 import argparse
 import sys
 import time
